@@ -10,7 +10,6 @@ client.on("message", (message) => {
   }
 });
  
-client.login("ODM2NzAxNjg4NTgzODE1MjAx.YIh1Kw.MejbWdieN1GvTj_8qPD-6pib410");
 client.on("message", (message) => {
   // This code runs when the event is triggered
 });
